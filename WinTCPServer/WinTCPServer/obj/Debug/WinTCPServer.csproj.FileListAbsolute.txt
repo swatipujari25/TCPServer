@@ -1,0 +1,11 @@
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\bin\Debug\WinTCPServer.exe
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\bin\Debug\WinTCPServer.pdb
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.Form1.resources
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.Server.resources
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.Properties.Resources.resources
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.csproj.GenerateResource.Cache
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.exe
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.pdb
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.Server2.resources
+D:\Swati\PIS GPRS\Server MultiClient\WinTCPServer\WinTCPServer\obj\Debug\WinTCPServer.Server1.resources
